@@ -1,0 +1,30 @@
+body{
+background-color:#6aa2ff;
+
+}
+h1{
+position: absolute;
+font-style: bold;
+size: 30px;
+color: #ffffff;
+margin-right:190px;
+border:solid;
+padding:20px;
+
+}
+p{
+font-size: 20px;
+}
+label{
+color: blue;
+}
+aside{
+color: red;
+}
+#pogi{
+border:20px;
+height:100px;
+width:100px;
+margin-right:200px ;
+padding:20px;
+}
